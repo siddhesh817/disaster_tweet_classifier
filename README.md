@@ -1,4 +1,4 @@
-# disaster_tweet_classifier
+# Disaster_Tweet_Classifier
 This project is a machine learning model designed to classify tweets as either disaster-related or non-disaster content. Using natural language processing (NLP) techniques, the model processes text data to predict if a tweet pertains to an emergency or not.
 Key Features
 Data Acquisition: Uses a dataset containing tweet text and a binary label indicating if the tweet relates to a disaster.
